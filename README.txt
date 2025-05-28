@@ -1,12 +1,27 @@
-# Airline Reservation System
+# India Airlines Online Reservation Portal
 
-## Setup Instructions
+## Overview
 
-1. Open MySQL and run the SQL script `airline.sql` to create and populate the database.
-2. Install the MySQL connector in your Python environment:
-   pip install mysql-connector-python
-3. Open a terminal in this directory and run the app:
-   python airline.py
-4. Follow the on-screen menu to search flights, check seats, and book tickets.
+This is a simple command-line based airline reservation system developed in Python using MySQL as the database backend. It allows users to:
 
-Make sure your MySQL server is running and credentials in the code match your setup.
+- Search for available flights.
+- Check available seats for a specific flight.
+- Book tickets by reserving seats.
+
+## Features
+
+- Search for flights based on origin, destination, and departure date.
+- View available seats for a specific flight.
+- Book tickets and reserve seats.
+- Updates seat status in real-time upon booking.
+
+## Requirements
+
+- Python 3.x
+- MySQL server
+- `mysql-connector-python` library
+
+Install required Python library using:
+
+```bash
+pip install mysql-connector-python
