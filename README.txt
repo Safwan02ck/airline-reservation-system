@@ -1,6 +1,6 @@
-# India Airlines Online Reservation Portal
+India Airlines Online Reservation Portal
 
-## Overview
+Overview: 
 
 This is a simple command-line based airline reservation system developed in Python using MySQL as the database backend. It allows users to:
 
@@ -8,14 +8,14 @@ This is a simple command-line based airline reservation system developed in Pyth
 - Check available seats for a specific flight.
 - Book tickets by reserving seats.
 
-## Features
+Features
 
 - Search for flights based on origin, destination, and departure date.
 - View available seats for a specific flight.
 - Book tickets and reserve seats.
 - Updates seat status in real-time upon booking.
 
-## Requirements
+Requirements
 
 - Python 3.x
 - MySQL server
