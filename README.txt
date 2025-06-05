@@ -8,6 +8,10 @@ This is a simple command-line based airline reservation system developed in Pyth
 - Check available seats for a specific flight.
 - Book tickets by reserving seats.
 
+Output:
+[View Output PDF](https://github.com/Safwan02ck/airline-reservation-system/blob/main/outputairline.pdf?raw=true)
+
+
 Features
 
 - Search for flights based on origin, destination, and departure date.
