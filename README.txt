@@ -28,7 +28,3 @@ pip install mysql-connector-python
 
 ---
 
-Outputs:
-1. Main window:
-
-![Screenshot](https://github.com/Safwan02ck/airline-reservation-system/blob/main/images/screenshotmainwindow.png?raw=true)
