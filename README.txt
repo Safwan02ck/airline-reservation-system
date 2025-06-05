@@ -28,5 +28,5 @@ pip install mysql-connector-python
 
 ---
 
-Output:
-[View output PDF](outputairline.pdf)
+[View output PDF](https://github.com/Safwan02ck/airline-reservation-system/blob/main/outputairline.pdf)
+
