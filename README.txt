@@ -28,3 +28,5 @@ pip install mysql-connector-python
 
 ---
 
+Output:
+[View output PDF](outputairline.pdf)
